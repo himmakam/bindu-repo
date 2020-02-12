@@ -10,4 +10,14 @@ entries:
     urls:
     - https://github.com/himmakam/bindu-repo/releases/download/janitor-jobs-10.76.1/janitor-jobs-10.76.1.tgz
     version: 10.76.1
+  maas360-chart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2020-02-12T09:46:32.5287716+05:30"
+    description: A Helm chart for Kubernetes
+    digest: dc4ac6a4cf97fa4e0b02acec38ddf62746347664d4a00c8fb92758ed94d6f878
+    name: maas360-chart
+    urls:
+    - https://github.com/himmakam/bindu-repo/releases/download/maas360-chart-0.1.0/maas360-chart-0.1.0.tgz
+    version: 0.1.0
 generated: "2020-02-12T09:27:39.7966353+05:30"
